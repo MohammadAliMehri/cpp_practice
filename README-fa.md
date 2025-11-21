@@ -2,7 +2,7 @@
 
 مجموعه‌ای از برنامه‌های ساده برای تمرین زبان ++C.
 
-## نمای کلی
+---
 
 این مخزن شامل چندین برنامه‌ی کوچک به زبان ++C است که برای تمرین و یادگیری طراحی شده‌اند. هر برنامه در یک فایل مجزای `.cpp` قرار دارد و در صورت وجود، فایل تصویری از خروجی برنامه نیز ضمیمه شده است.
 
@@ -29,13 +29,17 @@
 ## تصاویر / نمونه خروجی‌ها
 
 ![auth output](https://github.com/MohammadAliMehri/cpp_practice/blob/master/auth_output.png)
+
 *نمونه خروجی برنامه `auth.cpp`*
 
 ![days\_of\_a\_week output](https://github.com/MohammadAliMehri/cpp_practice/blob/master/days_of_a_week_output.png)
+
 *نمونه خروجی برنامه `days_of_a_week.cpp`*
 
 ![sen output](https://github.com/MohammadAliMehri/cpp_practice/blob/master/sen_output.png)
+
 *نمونه خروجی برنامه `sen.cpp`*
 
 ![simple\_calculator output](https://github.com/MohammadAliMehri/cpp_practice/blob/master/simple_calculator_output.png)
+
 *نمونه خروجی برنامه `simple_calculator.cpp`*
