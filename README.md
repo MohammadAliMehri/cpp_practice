@@ -31,35 +31,18 @@ Click the links below to view each source file:
 ## Screenshots / Output examples
 
 ![auth output](https://github.com/MohammadAliMehri/cpp_practice/blob/master/auth_output.png)
+
 *Example output of `auth.cpp`*
 
 ![days\_of\_a\_week output](https://github.com/MohammadAliMehri/cpp_practice/blob/master/days_of_a_week_output.png)
+
 *Example output of `days_of_a_week.cpp`*
 
 ![sen output](https://github.com/MohammadAliMehri/cpp_practice/blob/master/sen_output.png)
+
 *Example output of `sen.cpp`*
 
 ![simple\_calculator output](https://github.com/MohammadAliMehri/cpp_practice/blob/master/simple_calculator_output.png)
+
 *Example output of `simple_calculator.cpp`*
-
-## Getting started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/MohammadAliMehri/cpp_practice.git
-   ```
-2. Navigate to the folder:
-
-   ```bash
-   cd cpp_practice
-   ```
-3. Compile a program with `g++`:
-
-   ```bash
-   g++ days_of_a_week.cpp -o days_of_a_week
-   ./days_of_a_week
-   ```
-
-   Modify the filename for other programs accordingly.
 
