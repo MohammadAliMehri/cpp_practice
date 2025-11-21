@@ -17,7 +17,6 @@ Here is a list of the programs currently present in this repo:
 | `sen.cpp`               | (Likely a short exercise) — a small practice program. See [source](https://github.com/MohammadAliMehri/cpp_practice/blob/master/sen.cpp) and screenshot `sen_output.png`.                                                                                              |
 | `simple_calculator.cpp` | A basic calculator program (addition/subtraction/multiplication/division) using C++. See [source](https://github.com/MohammadAliMehri/cpp_practice/blob/master/simple_calculator.cpp) and screenshot `simple_calculator_output.png`. Includes `simple_calculator.exe`. |
 
-> Note: The list above reflects the files present at the time of writing. More programs may be added in future.
 
 ## How to view the source code
 
