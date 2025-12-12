@@ -3,7 +3,7 @@ using namespace std;
 #define NEWLINE '\n'
 int main() {
     int number;
-    cout << "Enter a number less than 10: ";
+    cout << "ye adad kamtar az 10 vared konid: ";
     cin >> number;
 
     if (number >= 10) {
@@ -11,7 +11,7 @@ int main() {
         return 1;
     }
 
-    cout << "Multiples of " << number << " up to 100:" << NEWLINE;
+    cout << "mazhabad az " << number << " ta 100:" << NEWLINE;
     for (int a = number; a <= 100; a += number) {
         cout << a << " ";
     }
