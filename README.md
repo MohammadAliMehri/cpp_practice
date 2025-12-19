@@ -4,7 +4,7 @@
 
 ## 🟢 ۱. معکوس کردن عدد
 
-**[Reverse Number](https://github.com/MohammadAliMehri/cpp_practice/blob/master/revesrse_number_task2_point.cpp)**
+**[Reverse Number](https://github.com/MohammadAliMehri/cpp_practice/blob/master/reverse_number_task2_point.cpp)**
 
 این برنامه یک عدد صحیح را از کاربر دریافت کرده و رقم‌های آن را به صورت معکوس چاپ می‌کند.
 
