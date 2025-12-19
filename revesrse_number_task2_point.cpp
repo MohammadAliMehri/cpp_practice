@@ -7,7 +7,7 @@ int main() {
     cin >> x;
 
     int reverse = 0; // sefre choon hanooz adad nadrim
-    while (x > 0) { // ta vaghti adad hast
+    while (x > 0) { // ta vaghti adad bozorg tar az sefr ast ejra mishe
         int digit = x % 10; // gereftane akharin ragham
         reverse = reverse * 10 + digit; // ezafe kardan ragham be reverse
         x /= 10; // hazf kardan akharin ragham az adad
